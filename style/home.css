@@ -1,0 +1,22 @@
+@import url(../style.css);
+
+body {
+    background-image: url(../assets/mountains-universe-home.png);
+    transition: background-image 500ms ease;
+}
+
+nav a:nth-child(2) {
+    font-weight: 700;
+    font-size: 21px;
+
+    color: var(text-color-secundary);
+    border-bottom: 1px solid var(text-color-secundary);
+}
+
+.content {
+    margin: 0 auto;
+    /* margin-top: 17.2rem; */
+
+    align-items: center;
+    gap: 2.4rem;
+}

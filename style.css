@@ -63,7 +63,6 @@ nav a {
   padding: 1.2rem 3.2rem;
   border: 2px solid var(--text-color-secundary);
   border-radius: 5px;
-  
 
   color: var(--text-color-secundary);
   background-color: transparent;
@@ -79,4 +78,11 @@ nav a {
   color: #02799d;
 
   transition: all 0.5s ease;
+}
+
+.content p {
+  font-size: 1.8rem;
+  line-height: 160%;
+
+  color: var(--text-color-primary);
 }

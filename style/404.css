@@ -1,0 +1,11 @@
+@import url(../style.css);
+
+.content {
+  margin: 0 auto;
+  margin-top: 14.3rem;
+
+  align-items: center;
+  gap: 2.4rem;
+
+  text-align: center;
+}
